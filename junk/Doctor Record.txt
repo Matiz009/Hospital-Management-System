@@ -1,0 +1,24 @@
+
+001 GeneralMedicine
+
+002 Orthopaedics
+
+003 ENT
+
+004 Psychiatry
+
+005 DentalSurgery
+
+006 ICU
+
+007 Nursing
+
+008 Accident&Emergency
+
+009 Chest&Vascular
+
+010 Gynaecology&Obstetrics
+
+011 Dermatology
+
+

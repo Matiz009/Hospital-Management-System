@@ -1,0 +1,7 @@
+Username for patient department=SP20-BSE-042
+PASSWORD=Matiz009
+
+
+Username for patient , Employee  & Parking department =SP20-BSE-106
+PASSWORD=123
+

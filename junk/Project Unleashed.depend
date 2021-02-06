@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1597236390 source:d:\semester 1\programming fundamentals\project unleashed\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+
